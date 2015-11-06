@@ -1,7 +1,7 @@
 # ScrollPrint
 Basic cross-platform utility for printing scrolls from a receipt printer device.
 
-ScrollPrint v1.1 uses a thermal printer and arduino uno to print scrolls from a text file. Each line of the text file should contain 32 characters, no blank lines allowed. Save the file with no formatting; use the MSDOS text format option if available. An example text file is included.
+ScrollPrint uses a thermal printer and arduino uno to print scrolls from a text file. Each line of the text file should contain 32 characters, no blank lines allowed. Save the file with no formatting; use the MSDOS text format option if available. An example text file is included.
 
 # RXTX Library
 This program requires RXTX binaries to be installed. See the following for installation instructions:
