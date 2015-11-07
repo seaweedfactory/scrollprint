@@ -5,6 +5,7 @@ ScrollPrint uses a thermal printer and arduino uno to print scrolls from a text 
 
 # RXTX Library
 This program requires RXTX binaries to be installed. See the following for installation instructions:
+
 http://rxtx.qbang.org/wiki/index.php/Installation_for_Windows
 http://rxtx.qbang.org/wiki/index.php/Installation_on_MacOS_X
 
